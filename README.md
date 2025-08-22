@@ -5,10 +5,11 @@ Welcome to my GitHub profile! I love building scalable backends, modern UIs, and
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LordJato&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordJato&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordJato&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LordJato&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LordJato&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordJato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+</div>
 ---
 
 ## 🛠 Tech Stack
