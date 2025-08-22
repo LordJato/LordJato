@@ -29,16 +29,4 @@ Welcome to my GitHub profile! I love building scalable backends, modern UIs, and
 - [**unicos-web**](https://github.com/LordJato/unicos-web) – Web frontend with modern UI/UX  
 
 ---
-
-## 🐍 Fun
-![GitHub Snake Animation](https://github.com/LordJato/LordJato/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎶 Extras
-![Profile Views](https://komarev.com/ghpvc/?username=LordJato&color=blueviolet&style=flat-square)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
 ⭐️ From [LordJato](https://github.com/LordJato)
