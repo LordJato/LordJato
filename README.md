@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I love building scalable backends, modern UIs, and
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
+  ## 📊 GitHub Stats
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=LordJato&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
+<div align="center">
 ## 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -18,3 +18,4 @@ Welcome to my GitHub profile! I love building scalable backends, modern UIs, and
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 ![Vuex/Pinia](https://img.shields.io/badge/-Pinia-FFD700?style=flat&logo=vue.js&logoColor=black)
+</div>
