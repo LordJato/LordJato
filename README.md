@@ -1,4 +1,4 @@
-# Hi there 👋 I’m LordJato  
+# Hi there 👋
 
 Welcome to my GitHub profile! I love building scalable backends, modern UIs, and solving problems with clean code.  
 
